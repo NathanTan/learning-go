@@ -11,3 +11,5 @@ func main() {
     message := greetings.Hello("GlaDos")
     fmt.Println(message)
 }
+
+// Continue tutorial here: https://go.dev/doc/tutorial/handle-errors
